@@ -6,7 +6,7 @@ Pasos para ejecutar el proyecto
 2. ejecutar ```npm install``` para recontruir los modulos de node
 
 3. corer el devServer ```npm run dev```
-4. abrir el proyecto en ```localhost:5173```
+4. abrir el proyecto en ```http://localhost:5173```
 
 ## Produccion
 
